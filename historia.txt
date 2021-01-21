@@ -1,5 +1,6 @@
 Esta es la historia de Juan Perez.
 
-Juan Perez tiene 20 años y nacio en Argentina.
+Juan Perez tiene 22 años y nacio en Argentina,
+viviendo en diferentes ciudades
 
 Hoy hablaremos de su historia.
