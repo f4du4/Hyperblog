@@ -4,3 +4,5 @@ Juan Perez tiene 22 años y nacio en Argentina,
 viviendo en diferentes ciudades
 
 Hoy hablaremos de su historia.
+
+Es muy alto.
